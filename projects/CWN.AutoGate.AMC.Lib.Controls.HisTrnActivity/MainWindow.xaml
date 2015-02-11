@@ -1,0 +1,13 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:CWN.AutoGate.AMC.Lib.Controls.HisTrnActivity" xmlns:ViewModels="clr-namespace:CWN.AutoGate.AMC.Lib.Controls.HisTrnActivity.ViewModels" xmlns:Views="clr-namespace:CWN.AutoGate.AMC.Lib.Controls.HisTrnActivity.Views" x:Class="CWN.AutoGate.AMC.Lib.Controls.HisTrnActivity.MainWindow"
+        Title="MainWindow" Height="519" Width="842" WindowStartupLocation="CenterScreen">
+
+    <Views:HisTrnActivityViewer HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+        <Views:HisTrnActivityViewer.DataContext>
+            <ViewModels:HisTrnActivityViewerModel/>
+        </Views:HisTrnActivityViewer.DataContext>
+    </Views:HisTrnActivityViewer>
+
+</Window>

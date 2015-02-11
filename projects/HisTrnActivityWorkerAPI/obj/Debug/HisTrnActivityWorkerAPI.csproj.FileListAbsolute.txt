@@ -1,0 +1,5 @@
+D:\projects\AOT002\PJ-AOT002\Trunk\SRC\CWN\AutoGate\AMC\HisTrnActivityWorkerAPI\bin\Debug\HisTrnActivityWorkerAPI.dll
+D:\projects\AOT002\PJ-AOT002\Trunk\SRC\CWN\AutoGate\AMC\HisTrnActivityWorkerAPI\bin\Debug\HisTrnActivityWorkerAPI.pdb
+D:\projects\AOT002\PJ-AOT002\Trunk\SRC\CWN\AutoGate\AMC\HisTrnActivityWorkerAPI\obj\Debug\HisTrnActivityWorkerAPI.dll
+D:\projects\AOT002\PJ-AOT002\Trunk\SRC\CWN\AutoGate\AMC\HisTrnActivityWorkerAPI\obj\Debug\HisTrnActivityWorkerAPI.pdb
+D:\projects\AOT002\PJ-AOT002\Trunk\SRC\CWN\AutoGate\AMC\HisTrnActivityWorkerAPI\obj\Debug\HisTrnActivityWorkerAPI.csprojResolveAssemblyReference.cache

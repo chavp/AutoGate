@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HisTrnActivityWorker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RabbitMQHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.16.24.194</Value>
+    </Setting>
+    <Setting Name="RabbitMQUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AOTAPPUAT</Value>
+    </Setting>
+    <Setting Name="RabbitMQPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mflv[1234</Value>
+    </Setting>
+    <Setting Name="RabbitMQVirtualHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/</Value>
+    </Setting>
+    <Setting Name="DBServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.16.24.195</Value>
+    </Setting>
+    <Setting Name="DBUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="DBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P@ssw0rd</Value>
+    </Setting>
+    <Setting Name="DBName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IMMEGATE</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
